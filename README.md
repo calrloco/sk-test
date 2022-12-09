@@ -2,11 +2,10 @@
 
 # ESERCIZIO ANAGRAMMA
 ### prima di iniziare
-Creare il file env
-copiare il contenuto di .env.example nel file appena creato
+Rinominare il file .env.example in .env
 
 ### setup con docker:
-Start container:
+cd nel progetto e avvia il container:
 ```shell
 ./vendor/bin/sail up 
 ```
