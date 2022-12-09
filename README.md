@@ -1,4 +1,4 @@
-## Carlo Briganti Test Skuola
+## Test Skuola.net
 
 # ESERCIZIO ANAGRAMMA
 ### prima di iniziare
